@@ -7,7 +7,6 @@ Appropriate files are ;
 linear_rl_trader.py
 rl_trader.py
 plot_rl_rewards.py
-
 Runs in train & test modes, use;
 "python linear_rl_trader.py -m train && python plot_rl_rewards.py -m train"
 "python linear_rl_trader.py -m test && python plot_rl_rewards.py -m test"
